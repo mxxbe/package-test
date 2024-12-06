@@ -1,0 +1,8 @@
+{
+  "name": "@foo/package-test",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:mxxbe/package-test.git",
+  "author": "Maximilian Belling <22763390+mxxbe@users.noreply.github.com>",
+  "license": "MIT"
+}
